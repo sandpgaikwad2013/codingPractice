@@ -1,4 +1,4 @@
-package codechallengesandp.datastructurealgorithm.Thread.sysc;
+package ds.algo.Thread.sysc;
 
 public class Consumer implements Runnable
 {

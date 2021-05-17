@@ -1,7 +1,7 @@
 /**
  * 
  */
-package codechallengesandp.datastructurealgorithm.Thread.sysc;
+package ds.algo.Thread.sysc;
 
 /**
  * @author SGaikwad
